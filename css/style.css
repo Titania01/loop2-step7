@@ -10,3 +10,10 @@ html,
 body {
   background-color: aqua;
 }
+
+.container {
+  background: #ffffff;
+  height: 40rem;
+  width: 70rem;
+  margin: 5rem auto;
+}
