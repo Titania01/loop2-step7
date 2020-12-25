@@ -14,7 +14,7 @@ body {
 .container {
   background: #ffffff;
   height: 40rem;
-  width: 70rem;
+  width: 80rem;
   margin: 5rem auto;
   display: flex;
 }
@@ -22,7 +22,9 @@ body {
 .bgee {
   height: 40rem;
   width: 35rem;
-  filter: brightness(50%);
+  filter: brightness(70%);
+  background-position: center;
+  background-size: cover;
 }
 
 .page {
@@ -32,6 +34,10 @@ body {
   color: #ffffff;
 }
 
+.press {
+  font-size: 36px;
+}
+
 .mini {
   font-weight: 500;
   padding-top: 0.75rem;
@@ -39,11 +45,16 @@ body {
 
 .image {
   background: rgb(80, 169, 142);
-  height: 3rem;
+  height: 3.5rem;
   width: 10rem;
-  border-radius: 1.5rem;
+  border-radius: 2rem;
   display: flex;
   align-items: center;
   justify-content: center;
   margin-top: 1rem;
+}
+
+.kit {
+  padding-left: 0.5rem;
+  font-weight: 500;
 }
