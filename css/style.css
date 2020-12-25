@@ -22,6 +22,7 @@ body {
 .bgee {
   height: 40rem;
   width: 35rem;
+  filter: brightness(50%);
 }
 
 .page {
@@ -29,4 +30,20 @@ body {
   top: -25rem;
   left: 10rem;
   color: #ffffff;
+}
+
+.mini {
+  font-weight: 500;
+  padding-top: 0.75rem;
+}
+
+.image {
+  background: rgb(80, 169, 142);
+  height: 3rem;
+  width: 10rem;
+  border-radius: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
 }
