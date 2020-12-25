@@ -18,3 +18,8 @@ body {
   margin: 5rem auto;
   display: flex;
 }
+
+.bgee {
+  height: 40rem;
+  width: 35rem;
+}
