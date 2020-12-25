@@ -16,4 +16,5 @@ body {
   height: 40rem;
   width: 70rem;
   margin: 5rem auto;
+  display: flex;
 }
